@@ -1,6 +1,6 @@
 # INET3101-lab1
 
-Sample command-line menu for an Inventory Management System 
+## Sample command-line menu for an Inventory Management System 
 
 Parts Inventory Manager
 1. Print all records
