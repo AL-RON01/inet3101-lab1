@@ -13,16 +13,24 @@ Parts Inventory Manager
 Please enter your selection: 2
 
 Enter Part number: 12
+
 Enter Part name: Tire
+
 Enter Part size: 28
+
 Enter Part size metric: in
+
 Enter Part cost: 75
 
 You entered:
 Part number = 12
+
 Part name = "Tire"
+
 Part size = 28.00
+
 Part size metric = "in"
+
 Part cost = $75.00
 
 
