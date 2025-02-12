@@ -37,7 +37,7 @@ Part cost = $75.00
 # Parts Inventory Manager
 
 ## Author
-Alejandro Ron
+Alejandro 
 
 ## Program Description
 The Parts Inventory Manager is a simple C program that allows users to manage an inventory of parts. Users can perform various operations such as printing all records, adding new records, deleting the last record, and viewing the number of records and changes made to the database.
