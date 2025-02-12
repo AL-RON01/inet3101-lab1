@@ -1,14 +1,30 @@
 # INET3101-lab1
 
-Code for INET 3101 Lab 1
-
 Sample command-line menu for an Inventory Management System 
 
-README'S in Github use "Markdown" for markup.
+Parts Inventory Manager
+1. Print all records
+2. Add a Record
+3. Delete the last record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection: 2
 
-- Item 1
-- Item 2
-- Item 3
+Enter Part number: 12
+Enter Part name: Tire
+Enter Part size: 28
+Enter Part size metric: in
+Enter Part cost: 75
+
+You entered:
+Part number = 12
+Part name = "Tire"
+Part size = 28.00
+Part size metric = "in"
+Part cost = $75.00
+
 
 # Parts Inventory Manager
 
